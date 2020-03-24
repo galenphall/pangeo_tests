@@ -2,30 +2,9 @@ name: pangeo
 channels:
   - conda-forge
 dependencies:
-  - python=3.6
+  - pangeo-notebook==0.0.2
   - xarray
-  - dask
-  - distributed
-  - dask-kubernetes
-  - gcsfs
-  - intake::intake-xarray
-  - zarr
-  - matplotlib
-  - numcodecs
-  - python-blosc
-  - lz4
-  - nomkl
-  - nbserverproxy
-  - jupyter
-  - jupyterlab=0.35
-  - jupyterlab_launcher
-  - jupyter_client
-  - ipywidgets
-  - graphviz
-  - nodejs
+  - hvplot
   - pip
-  - intake
-  - intake-xarray
   - pip:
-    - kubernetes
-    - graphviz
+    - sat-search
