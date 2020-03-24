@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/ghall3-pangeo_tests-d0fjapff/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "secure": false,
+  "token": "kC8rO1DgSp-Bci1Dtxuiew",
+  "url": "http://0.0.0.0:8888/user/ghall3-pangeo_tests-d0fjapff/"
+}

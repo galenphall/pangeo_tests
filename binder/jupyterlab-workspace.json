@@ -78,7 +78,7 @@
       }
     },
     "dask-dashboard-launcher": {
-      "url": "DASK_DASHBOARD_URL"
+      "url": "/user/ghall3-pangeo_tests-d0fjapff/proxy/8787"
     },
     "application-mimedocuments:Welcome.md:Markdown Preview": {
       "data": {
@@ -88,6 +88,6 @@
     }
   },
   "metadata": {
-    "id": "WORKSPACE_ID"
+    "id": "/user/ghall3-pangeo_tests-d0fjapff/lab"
   }
 }
