@@ -23,6 +23,9 @@ dependencies:
   - ipywidgets
   - graphviz
   - nodejs
+  - pip
+  - intake
+  - intake-xarray
   - pip:
     - kubernetes
     - graphviz
