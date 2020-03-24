@@ -36,6 +36,7 @@ dependencies:
   - ipyleaflet
   - graphviz
   - dask-kubernetes
+  - tqdm
   - pip
   - pip:
     - git+https://github.com/xgcm/xgcm.git
