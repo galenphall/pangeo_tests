@@ -1,1 +1,2 @@
 /srv/conda/envs/notebook
+/srv/conda
